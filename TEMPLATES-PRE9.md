@@ -77,7 +77,7 @@ LE lampUX 380lm Candle   {"NAME":"LE Bulb","GPIO":[0,0,0,0,0,0,0,0,38,0,37,0,0],
 LE LampUX 4.5W 410lm     {"NAME":"LE LampUX","GPIO":[0,0,0,0,0,37,0,0,38,0,0,0,0],"FLAG":0,"BASE":48}
 ledscom.de 4.5W 430lm    {"NAME":"GX53","GPIO":[0,0,0,0,0,0,0,0,38,0,37,0,0],"FLAG":0,"BASE":0}
 Lenovo 800lm             {"NAME":"LenovoLB","GPIO":[0,0,0,0,0,37,0,0,0,38,0,0,0],"FLAG":0,"BASE":18}
-Lohas ZN051 5W 420lm     {"NAME":"Lohas ZN051","GPIO":[0,0,0,0,0,0,0,0,38,0,37,0,0],"FLAG":0,"BASE":18}
+TEMPLATES-PRE9.mdLohas ZN051 5W 420lm     {"NAME":"Lohas ZN051","GPIO":[0,0,0,0,0,0,0,0,38,0,37,0,0],"FLAG":0,"BASE":18}
 Lohas ZN070 720lm        {"NAME":"Lohas ZN070","GPIO":[0,0,0,0,0,0,0,0,38,0,37,0,0],"FLAG":0,"BASE":18}
 LSC A55 14W 1400lm       {"NAME":"LSC CT E27","GPIO":[0,0,0,0,37,47,0,0,0,0,0,0,0],"FLAG":0,"BASE":48}
 Lumiman A19 7.5W 800lm   {"NAME":"Lumiman LM520","GPIO":[0,0,0,0,0,37,0,0,38,0,0,0,0],"FLAG":0,"BASE":18}
@@ -1812,5 +1812,5 @@ Y09                      {"NAME":"Y09","GPIO":[0,107,0,108,0,0,0,0,0,0,0,0,0],"F
 
 ## Zigbee Bridge
 ```
-Sonoff ZBBridge          {"NAME":"Sonoff ZbBridge","GPIO":[56,165,0,166,215,0,0,0,6,158,5,0,17],"FLAG":0,"BASE":75}
+Sonoff ZBBridge          {"NAME":"EZELINK ZbBridge","GPIO":[56,165,0,166,215,0,0,0,6,158,5,0,17],"FLAG":0,"BASE":75}
 ```

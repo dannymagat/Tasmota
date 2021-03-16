@@ -78,6 +78,6 @@ Module             | LCode | Description
 72 EXS Dimmer      |   x   | EXS Wifi Dimmer v4
 73 PWM Dimmer      |   x   | Martin Jerry/acenx/Tessan/NTONPOWER SD0x PWM Dimmer Switches
 74 Sonoff D1       |   x   | Sonoff D1 Wifi and RF Dimmer
-75 Sonoff ZbBridge |   x   | Sonoff Zigbee bridge
+75 EZELINK ZbBridge |   x   | EZELINK Zigbee bridge
 
 Over 1850 additional devices are supported using [templates](TEMPLATES.md).
